@@ -1,4 +1,12 @@
-# サンプル（プロダクト名）
+今夜までの仮レポジトリ
+フロント
+https://github.com/naturalwater-46/picsche-front
+バックエンド
+https://github.com/Yuma0802/picsche-api
+
+
+
+# PicSchedule
 
 [![IMAGE ALT TEXT HERE](https://jphacks.com/wp-content/uploads/2023/07/JPHACKS2023_ogp.png)](https://www.youtube.com/watch?v=yYRQEdfGjEg)
 
